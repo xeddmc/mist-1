@@ -10,8 +10,6 @@ Mist Classic browser and wallet is a modified version of the [Mist](https://gith
 
 
 [![Join the chat at https://gitter.im/ethereumproject/mist](https://badges.gitter.im/Join%20Chat.svg)](#TBD)
-[![Build status master branch ](https://build.ethdev.com/buildstatusimage?builder=Mist%20master%20branch)](#TBD)
-[![Build status develop branch ](https://build.ethdev.com/buildstatusimage?builder=Mist%20develop%20branch)](#TBD)
 
 The Mist(classic) browser is the tool of choice to browse and use Ðapps.
 
